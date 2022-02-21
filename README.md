@@ -14,7 +14,7 @@
 <br />
 <br />
 
-I'm Martin, a fullstack dev, i have been working on tech projects since 2008, i like to work on social entrepreneurship projects and integrate services on the cloud.
+I'm Martin, a fullstack dev, i have been working on tech projects since 2008, i like to work on social entrepreneurship projects and integration on the cloud.
 
 
 ### Tech stack:
