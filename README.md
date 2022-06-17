@@ -1,15 +1,15 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### hey there!
 <a href="https://www.instagram.com/mgarciat1090/">
-  <img align="left" alt="Mgarciat's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Mgarciat's Instagram" width="22px" src="https://pics.freeicons.io/uploads/icons/png/6590558241561032669-512.png" />
 </a>
 <a href="https://twitter.com/Cory_kraftstoff">
-  <img align="left" alt="Mgarciat | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Mgarciat | Twitter" width="22px" src="https://pics.freeicons.io/uploads/icons/png/3848290321556105338-512.png" />
 </a>
 <a href="https://www.linkedin.com/in/mart%C3%ADn-garc%C3%ADa-4163097a/">
-  <img align="left" alt="Mgarciat's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Mgarciat's LinkedIN" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />
 </a>
 <a href="https://open.spotify.com/user/1277285087?si=fb5eee074f28412f">
-  <img align="left" alt="Mgarciat's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Mgarciat's Spotify" width="22px" src="https://pics.freeicons.io/uploads/icons/png/5904922741556105333-512.png" />
 </a>  
 <br />
 <br />
