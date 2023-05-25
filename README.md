@@ -11,6 +11,9 @@
 <a href="https://open.spotify.com/user/1277285087?si=fb5eee074f28412f">
   <img align="left" alt="Mgarciat's Spotify" width="22px" src="https://pics.freeicons.io/uploads/icons/png/5904922741556105333-512.png" />
 </a>  
+<a href="https://soundcloud.com/machinumm">
+  <img align="left" alt="Mgarciat's SoundCloud" width="22px" src="https://pics.freeicons.io/uploads/icons/png/9136416351554468910-512.png" />
+</a>  
 <br />
 <br />
 
